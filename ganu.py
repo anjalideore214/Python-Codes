@@ -1,0 +1,11 @@
+from sketchpy import canvas
+# obj1=canvas.sketch_from_image('C:\\Users\\DELL\\Desktop\\VS CODE Folder\\Python programs\\Python codes\\ganesha3\\ganu.jpg')
+# obj1.draw()
+# obj2=canvas.sketch_from_image('C:\\Users\\DELL\\Desktop\\VS CODE Folder\\Python programs\\Python codes\\ganesha3\\ganu1.jpg')
+# obj2.draw()
+# obj3=canvas.sketch_from_image('C:\\Users\\DELL\\Desktop\\VS CODE Folder\\Python programs\\Python codes\\ganesha3\\ganu2.jpg')
+# obj3.draw()
+# obj4=canvas.sketch_from_image('C:\\Users\\DELL\\Desktop\\VS CODE Folder\\Python programs\\Python codes\\ganesha3\\ganu3.jpg')
+# obj4.draw()
+# obj5=canvas.sketch_from_image('C:\\Users\\DELL\\Desktop\\VS CODE Folder\\Python programs\\Python codes\\ganesha3\\ganu4.jpg')
+# obj5.draw()

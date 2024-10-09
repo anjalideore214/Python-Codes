@@ -1,0 +1,11 @@
+from tkinter import *
+root=Tk()
+root.title("My first window")
+root.size()
+w=Button(root,text="Click Me" ,background="blue", foreground="red", command=root.destroy)
+A=Radiobutton(root,text="Female")
+B=Checkbutton(root,text="All")
+B.pack()
+A.pack()
+w.pack()
+root.mainloop()
